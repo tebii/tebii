@@ -7,9 +7,9 @@ ZZZzz  /,`.-'`'    -.  ;-;;,_
 
 ```
 # ヾ(＾∇＾) Hello, I'm Tebii 
+Exploring cybersecurity challenges and building secure systems |･ω･｀)
 
-## (=^･ω･^=) Exploring:
-- 🔥 Offensive Security 
-- 🌐 Web Security 
-- ☁️ Cloud Security
-
+🔐 Penetration Testing (CPTS, OSCP - in progress)
+🌐 Web Security (SQL Injection, XSS, CSRF)
+🛡️ SOC Operations (Threat Detection, Incident Response)
+📊 Security Management (CISSP - Associate)
