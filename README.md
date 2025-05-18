@@ -2,14 +2,13 @@
 
        |\      _,,,---,,_
 ZZZzz  /,`.-'`'    -.  ;-;;,_
-      |,4-  ) )-,_. ,\ (  `'-'
+      |,4-  ) )-,_. ,\ (  `'-'         ~ Welcome to My Profile ~
      '---''(_/--'  `-'\_)
 
 ```
 # ヾ(＾∇＾) Hello, I'm Tebii 
-Exploring cybersecurity challenges and building secure systems |･ω･｀)
-
-🔐 Penetration Testing (CPTS, OSCP - in progress)
-🌐 Web Security (SQL Injection, XSS, CSRF)
-🛡️ SOC Operations (Threat Detection, Incident Response)
-📊 Security Management (CISSP - Associate)
+Exploring cybersecurity and building secure systems |･ω･｀)
+- 🔐 Penetration Testing 
+- 🌐 Web Security 
+- ☁️ Cloud Security
+- 📊 Security Management 
