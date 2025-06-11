@@ -8,7 +8,3 @@ ZZZzz  /,`.-'`'    -.  ;-;;,_
 ```
 # ヾ(＾∇＾) Hello, I'm Loong
 Exploring cybersecurity and building secure systems |･ω･｀)
-- 🔐 Penetration Testing 
-- 🌐 Web Security 
-- ☁️ Cloud Security
-- 📊 Security Management 
