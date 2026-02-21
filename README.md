@@ -2,9 +2,9 @@
 
        |\      _,,,---,,_
 ZZZzz  /,`.-'`'    -.  ;-;;,_
-      |,4-  ) )-,_. ,\ (  `'-'         ~ Welcome to My Profile ~
+      |,4-  ) )-,_. ,\ (  `'-'       
      '---''(_/--'  `-'\_)
 
 ```
-# ヾ(＾∇＾) Hello, I'm Loong
-Exploring cybersecurity and building secure systems |･ω･｀)
+hi there
+exploring cybersecurity and building secure systems 
