@@ -6,5 +6,4 @@ ZZZzz  /,`.-'`'    -.  ;-;;,_
      '---''(_/--'  `-'\_)
 
 ```
-hi there
-exploring cybersecurity and building secure systems 
+hi there breaking into things (legally) to help build secure systems 
