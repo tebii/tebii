@@ -6,4 +6,4 @@ ZZZzz  /,`.-'`'    -.  ;-;;,_
      '---''(_/--'  `-'\_)
 
 ```
-hi there breaking into things (legally) to help build secure systems 
+breaking into things (legally) to help build secure systems 
